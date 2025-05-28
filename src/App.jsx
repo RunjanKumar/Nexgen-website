@@ -1,6 +1,6 @@
 import Header from "./components/Header";
 import Body from "./components/Body";
-import Feature from "./components/feature";
+import Feature from "./components/Feature";
 import PartySection from "./components/PartySection";
 import HorizontalScrool from "./components/HorizontalScrool";
 import Footer from "./components/Footer";
