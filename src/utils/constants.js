@@ -1,0 +1,2 @@
+export const partyAdVideoMp4 = "https://cdn.prod.website-files.com/638809065816c86d85c2e45b/645f49d2708893c889b51558_dinner party-transcode.mp4"
+export const partyAdVideoWebm ="https://cdn.prod.website-files.com/638809065816c86d85c2e45b/645f49d2708893c889b51558_dinner party-transcode.webm"
